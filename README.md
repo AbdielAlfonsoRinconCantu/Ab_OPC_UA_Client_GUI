@@ -1,9 +1,7 @@
 # Ab's OPC UA Client GUI #
 An OPC UA Client GUI to read and write tags.
 
-<div align="center">
-  <img src="Ab_OPC_UA_Client_GUI_img1.png" alt="Ab_OPC_UA_Client_GUI_img1.png" width="939" height="573">
-</div>
+![Ab_OPC_UA_Client_GUI_img1.PNG](Ab_OPC_UA_Client_GUI_img1.PNG)
 
 # Before you install #
 Make sure the following is installed:
